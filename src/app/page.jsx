@@ -1,5 +1,6 @@
 import Link from "next/link";
 import ClipBoard from "@/components/ClipBoard";
+import Footer from "@/components/layout/Footer";
 
 export default function Home() {
     return (
@@ -62,6 +63,8 @@ export default function Home() {
                     />
                 </ul>
             </section>
+
+            <Footer />
         </main>
     );
 }
