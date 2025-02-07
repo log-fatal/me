@@ -42,7 +42,7 @@ export default function Home() {
             </ul>
 
             <section className="flex gap-1 flex-col items-center">
-                <p className="font-medium">Donation for X Premium {"👉👈"}</p>
+                <p className="font-medium">Support me if you like to :3</p>
 
                 <ul className="font-medium text-lg text-neutral-400 flex gap-6 items-center">
                     <ClipBoard
